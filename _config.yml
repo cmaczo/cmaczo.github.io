@@ -1,4 +1,4 @@
 name: Colin MacArthur
 markdown: kramdown
 
-theme: jekyll-theme-minimal
+theme: ColeTownsend/Balzac-for-Jekyll
