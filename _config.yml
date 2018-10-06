@@ -1,2 +1,4 @@
 name: Colin MacArthur
 markdown: kramdown
+
+theme: jekyll-theme-minimal
